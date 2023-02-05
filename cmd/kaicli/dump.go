@@ -9,7 +9,7 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/openware/kaigara/types"
+	"github.com/ohlcware/kaigara/types"
 )
 
 func dumpCmd() error {

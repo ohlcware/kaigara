@@ -1,4 +1,4 @@
-module github.com/openware/kaigara/pkg/encryptor
+module github.com/ohlcware/kaigara/pkg/encryptor
 
 go 1.17
 

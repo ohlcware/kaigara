@@ -1,24 +1,24 @@
-module github.com/openware/kaigara
+module github.com/ohlcware/kaigara
 
 go 1.18
 
-// replace github.com/openware/kaigara/pkg/encryptor => ./pkg/encryptor
+// replace github.com/ohlcware/kaigara/pkg/encryptor => ./pkg/encryptor
 
-// replace github.com/openware/kaigara/pkg/k8s => ./pkg/k8s
+// replace github.com/ohlcware/kaigara/pkg/k8s => ./pkg/k8s
 
-// replace github.com/openware/kaigara/pkg/sql => ./pkg/sql
+// replace github.com/ohlcware/kaigara/pkg/sql => ./pkg/sql
 
-// replace github.com/openware/kaigara/pkg/vault => ./pkg/vault
+// replace github.com/ohlcware/kaigara/pkg/vault => ./pkg/vault
 
 require (
 	github.com/go-redis/redis/v7 v7.2.0
-	github.com/openware/kaigara/pkg/encryptor v0.0.0-20220428165818-6271445f8750
-	github.com/openware/kaigara/pkg/k8s v0.1.2
-	github.com/openware/kaigara/pkg/sql v0.1.0
-	github.com/openware/kaigara/pkg/vault v0.1.0
-	github.com/openware/pkg/ika v0.1.1
-	github.com/openware/pkg/kli v0.1.1
-	github.com/openware/pkg/kube v0.1.1
+	github.com/ohlcware/kaigara/pkg/encryptor v0.0.0-20220428165818-6271445f8750
+	github.com/ohlcware/kaigara/pkg/k8s v0.1.2
+	github.com/ohlcware/kaigara/pkg/sql v0.1.0
+	github.com/ohlcware/kaigara/pkg/vault v0.1.0
+	github.com/ohlcware/pkg/ika v0.1.1
+	github.com/ohlcware/pkg/kli v0.1.1
+	github.com/ohlcware/pkg/kube v0.1.1
 	github.com/stretchr/testify v1.8.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/gorm v1.22.5

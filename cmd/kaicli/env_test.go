@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/openware/kaigara/pkg/config"
-	"github.com/openware/kaigara/types"
+	"github.com/ohlcware/kaigara/pkg/config"
+	"github.com/ohlcware/kaigara/types"
 	"github.com/stretchr/testify/assert"
 )
 

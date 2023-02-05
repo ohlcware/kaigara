@@ -6,8 +6,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/openware/kaigara/pkg/storage"
-	"github.com/openware/kaigara/utils/testenv"
+	"github.com/ohlcware/kaigara/pkg/storage"
+	"github.com/ohlcware/kaigara/utils/testenv"
 )
 
 var testdataPath = "../testdata/testenv.yml"

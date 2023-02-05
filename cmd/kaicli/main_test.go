@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/openware/kaigara/pkg/config"
+	"github.com/ohlcware/kaigara/pkg/config"
 )
 
 func TestMain(m *testing.M) {

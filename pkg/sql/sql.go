@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/openware/kaigara/pkg/encryptor/types"
+	"github.com/ohlcware/kaigara/pkg/encryptor/types"
 	"gorm.io/datatypes"
 	"gorm.io/driver/mysql"
 	"gorm.io/driver/postgres"

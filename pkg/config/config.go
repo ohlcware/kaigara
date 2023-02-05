@@ -1,8 +1,8 @@
 package config
 
 import (
-	"github.com/openware/kaigara/pkg/sql"
-	"github.com/openware/pkg/ika"
+	"github.com/ohlcware/kaigara/pkg/sql"
+	"github.com/ohlcware/pkg/ika"
 )
 
 var ConfPath = ""

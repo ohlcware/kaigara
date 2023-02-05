@@ -6,10 +6,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/openware/kaigara/pkg/config"
-	"github.com/openware/kaigara/pkg/env"
-	"github.com/openware/kaigara/types"
-	"github.com/openware/pkg/kli"
+	"github.com/ohlcware/kaigara/pkg/config"
+	"github.com/ohlcware/kaigara/pkg/env"
+	"github.com/ohlcware/kaigara/types"
+	"github.com/ohlcware/pkg/kli"
 )
 
 func envCmd(cmd *kli.Command) func() error {

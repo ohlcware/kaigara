@@ -5,7 +5,7 @@ import (
 	"log"
 	"regexp"
 
-	"github.com/openware/kaigara/pkg/logstream"
+	"github.com/ohlcware/kaigara/pkg/logstream"
 )
 
 var redisChannel = "log.*"

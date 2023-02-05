@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/openware/kaigara/pkg/config"
-	"github.com/openware/kaigara/types"
+	"github.com/ohlcware/kaigara/pkg/config"
+	"github.com/ohlcware/kaigara/types"
 )
 
 var kfile = regexp.MustCompile("(?i)^KFILE_(.*)_(PATH|CONTENT)$")

@@ -13,11 +13,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/openware/kaigara/pkg/config"
-	"github.com/openware/kaigara/pkg/env"
-	"github.com/openware/kaigara/pkg/logstream"
-	"github.com/openware/kaigara/pkg/storage"
-	"github.com/openware/kaigara/types"
+	"github.com/ohlcware/kaigara/pkg/config"
+	"github.com/ohlcware/kaigara/pkg/env"
+	"github.com/ohlcware/kaigara/pkg/logstream"
+	"github.com/ohlcware/kaigara/pkg/storage"
+	"github.com/ohlcware/kaigara/types"
 )
 
 var conf *config.KaigaraConfig

@@ -7,9 +7,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/openware/kaigara/pkg/config"
-	"github.com/openware/kaigara/pkg/storage"
-	"github.com/openware/kaigara/types"
+	"github.com/ohlcware/kaigara/pkg/config"
+	"github.com/ohlcware/kaigara/pkg/storage"
+	"github.com/ohlcware/kaigara/types"
 )
 
 var appNames []string = []string{

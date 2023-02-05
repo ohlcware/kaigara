@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/openware/pkg/kli"
+	"github.com/ohlcware/pkg/kli"
 )
 
 func delCmd(cmd *kli.Command) func() error {

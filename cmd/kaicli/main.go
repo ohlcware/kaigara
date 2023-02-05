@@ -3,11 +3,11 @@ package main
 import (
 	"os"
 
-	"github.com/openware/pkg/kli"
+	"github.com/ohlcware/pkg/kli"
 
-	"github.com/openware/kaigara/pkg/config"
-	"github.com/openware/kaigara/pkg/storage"
-	"github.com/openware/kaigara/types"
+	"github.com/ohlcware/kaigara/pkg/config"
+	"github.com/ohlcware/kaigara/pkg/storage"
+	"github.com/ohlcware/kaigara/types"
 )
 
 var KaiConfPath = "./kaiconf.yaml"

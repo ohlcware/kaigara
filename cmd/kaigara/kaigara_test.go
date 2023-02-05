@@ -6,11 +6,11 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/openware/kaigara/pkg/config"
-	"github.com/openware/kaigara/pkg/logstream"
-	"github.com/openware/kaigara/pkg/sql"
-	"github.com/openware/kaigara/pkg/storage"
-	"github.com/openware/kaigara/utils/testenv"
+	"github.com/ohlcware/kaigara/pkg/config"
+	"github.com/ohlcware/kaigara/pkg/logstream"
+	"github.com/ohlcware/kaigara/pkg/sql"
+	"github.com/ohlcware/kaigara/pkg/storage"
+	"github.com/ohlcware/kaigara/utils/testenv"
 	"github.com/stretchr/testify/assert"
 	"gorm.io/gorm"
 )

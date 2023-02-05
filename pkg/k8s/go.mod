@@ -1,10 +1,10 @@
-module github.com/openware/kaigara/pkg/k8s
+module github.com/ohlcware/kaigara/pkg/k8s
 
 go 1.18
 
 require (
-	github.com/openware/kaigara/pkg/encryptor v0.0.0-20220428165818-6271445f8750
-	github.com/openware/pkg/kube v0.1.1
+	github.com/ohlcware/kaigara/pkg/encryptor v0.0.0-20220428165818-6271445f8750
+	github.com/ohlcware/pkg/kube v0.1.1
 	github.com/stretchr/testify v1.8.0
 	k8s.io/api v0.25.0
 	k8s.io/apimachinery v0.25.0

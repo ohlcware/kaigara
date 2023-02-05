@@ -1,11 +1,11 @@
-module github.com/openware/kaigara/pkg/sql
+module github.com/ohlcware/kaigara/pkg/sql
 
 go 1.17
 
-// replace github.com/openware/kaigara/pkg/encryptor => ../encryptor
+// replace github.com/ohlcware/kaigara/pkg/encryptor => ../encryptor
 
 require (
-	github.com/openware/kaigara/pkg/encryptor v0.0.0-20220428165818-6271445f8750
+	github.com/ohlcware/kaigara/pkg/encryptor v0.0.0-20220428165818-6271445f8750
 	github.com/stretchr/testify v1.7.1
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	gorm.io/datatypes v1.0.5
