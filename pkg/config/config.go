@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/openware/kaigara/types"
+	"github.com/ohlcware/kaigara/types"
 )
 
 // KaigaraConfig contains cli options

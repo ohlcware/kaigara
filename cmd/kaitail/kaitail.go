@@ -6,8 +6,8 @@ import (
 	"log"
 	"regexp"
 
-	"github.com/openware/kaigara/pkg/logstream"
-	"github.com/openware/kaigara/pkg/utils"
+	"github.com/ohlcware/kaigara/pkg/logstream"
+	"github.com/ohlcware/kaigara/pkg/utils"
 )
 
 var (

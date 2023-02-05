@@ -6,10 +6,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/openware/kaigara/pkg/config"
-	"github.com/openware/kaigara/pkg/logstream"
-	"github.com/openware/kaigara/pkg/vault"
-	"github.com/openware/pkg/ika"
+	"github.com/ohlcware/kaigara/pkg/config"
+	"github.com/ohlcware/kaigara/pkg/logstream"
+	"github.com/ohlcware/kaigara/pkg/vault"
+	"github.com/ohlcware/pkg/ika"
 	"gopkg.in/yaml.v3"
 )
 

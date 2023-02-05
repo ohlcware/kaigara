@@ -4,12 +4,12 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/openware/kaigara/pkg/config"
-	"github.com/openware/kaigara/pkg/vault"
+	"github.com/ohlcware/kaigara/pkg/config"
+	"github.com/ohlcware/kaigara/pkg/vault"
 
 	"strings"
 
-	"github.com/openware/pkg/ika"
+	"github.com/ohlcware/pkg/ika"
 )
 
 var cnf = &config.KaigaraConfig{}

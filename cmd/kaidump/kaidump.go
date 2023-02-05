@@ -6,12 +6,12 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/openware/kaigara/pkg/config"
-	"github.com/openware/kaigara/pkg/vault"
+	"github.com/ohlcware/kaigara/pkg/config"
+	"github.com/ohlcware/kaigara/pkg/vault"
 
 	"strings"
 
-	"github.com/openware/pkg/ika"
+	"github.com/ohlcware/pkg/ika"
 	"gopkg.in/yaml.v3"
 )
 
